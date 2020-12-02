@@ -12,7 +12,7 @@
 #### 기타 경력 👩🏻‍🎨
 |형태|기관|||
 |---|----|---|---|
-|이모티콘 작가|카카오|[쓰앵님콘](https://e.kakao.com/t/brag-tags)|첫 도전 성공 후 줄줄이 낙방 중이지만 계속 도전 중😅|
+|이모티콘 작가|카카오|[쓰앵님콘](https://e.kakao.com/t/brag-tags){: target="_blank"}|첫 도전 성공 후 줄줄이 낙방 중이지만 계속 도전 중😅|
 
 <!--
 **zeze79/zeze79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
