@@ -11,7 +11,7 @@
 #### 기타 경력 👩🏻‍🎨
 |형태|기관||
 |---|----|---|
-|이모티콘 작가|카카오|[쓰앵님콘](https://e.kakao.com/t/brag-tags)🍎|
+|이모티콘 작가|카카오|[쓰앵님콘](https://e.kakao.com/t/brag-tags)|
 
 <!--
 **zeze79/zeze79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
